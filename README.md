@@ -26,4 +26,4 @@ O projeto é dividido em dois arquivos principais:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/C4LD4R3LL1/portfolio.git
+   git clone https://github.com/C4LD4R3LL1/Blog_Pessoal.git
